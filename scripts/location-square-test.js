@@ -11,17 +11,14 @@ import isValidCoordinates from './main.js';
 //   });
 
 // const isDeviceValid = (dev) => {
-//   // check if dev.coordinate
-//    // check dev.coordinate with isCoordinateValid
+//
 //   return true;
 // }
 // const isLocationValid = (loc) => {
-//   // check if loc.coordinates array exists
-//   // check if loc.coordinates array length is correct for shape
-//   // check each coordinate with isCoordinateValid
+//   
 //   return true;
 // }
-// const isInsideQuad = (device, location) => {
+// const isInsideSquare = (device, location) => {
 //   // check args
 //   const isDeviceValid = isDeviceValid(device);
 //   const isLocationValid = isLocationValid(location);
