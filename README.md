@@ -1,4 +1,4 @@
-# talk-2-treasure-2
+# Talk-2-treasure-2
 
 This is an app kind of like the magic 8 ball - instead it only has two responses, not 8. 
 
